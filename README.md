@@ -7,6 +7,8 @@ https://trello.com/invite/b/6a898d65d83907cf4edac784/ATTIc9b31e20bf8dc96bdada20a
 ## Kanban (05/09)
 <img width="1916" height="852" alt="image" src="https://github.com/user-attachments/assets/820f5c59-d33b-427f-a3c6-31845b491e43" />
 
+## Kanban (12/09)
+<img width="1614" height="801" alt="image" src="https://github.com/user-attachments/assets/91fb188c-2978-4d6d-9709-be4a0a4310b4" />
 
 ## DoD
 <img width="601" height="148" alt="DoD" src="https://github.com/user-attachments/assets/60e18528-3894-4f4a-8860-8df634fc482a" />
