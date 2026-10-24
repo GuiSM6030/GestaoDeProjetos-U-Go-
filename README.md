@@ -12,10 +12,3 @@ https://trello.com/invite/b/6a898d65d83907cf4edac784/ATTIc9b31e20bf8dc96bdada20a
 
 ## DoD
 <img width="601" height="148" alt="DoD" src="https://github.com/user-attachments/assets/60e18528-3894-4f4a-8860-8df634fc482a" />
-
-## Kanban
-<img width="1916" height="782" alt="image" src="https://github.com/user-attachments/assets/f761a20b-3886-4d64-8821-18c930abdfc4" />
-
-
-## Kanban de Risco (17/10)
-<img width="1916" height="782" alt="image" src="https://github.com/user-attachments/assets/db5161eb-3c6b-4eb8-9d60-be9830b9c333" />
